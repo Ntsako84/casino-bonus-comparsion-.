@@ -1,0 +1,23 @@
+[
+  {
+    "casino": "Hollywoodbets Casino",
+    "welcomeBonus": "100% up to R5,000",
+    "wageringRequirement": 35,
+    "minimumDeposit": "R50",
+    "sourceUrl": "https://www.hollywoodbets.net"
+  },
+  {
+    "casino": "SportyBet VIP",
+    "welcomeBonus": "200% up to R5000",
+    "wageringRequirement": 40,
+    "minimumDeposit": "R100",
+    "sourceUrl": "https://www.sportybet.com"
+  },
+  {
+    "casino": "Betway",
+    "welcomeBonus": "100% up to €300",
+    "wageringRequirement": 30,
+    "minimumDeposit": "10 EUR",
+    "sourceUrl": "https://www.betway.com"
+  }
+]
